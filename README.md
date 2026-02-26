@@ -26,7 +26,7 @@
   <img align="center" alt="MongoDB" height="60" width="60" src="https://skillicons.dev/icons?i=mongo">
 </div>
 
-<br><br>
+<br>
 
 ### Contatos abaixo!
 
