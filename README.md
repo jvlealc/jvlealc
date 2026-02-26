@@ -9,24 +9,29 @@
 <br>
 
 <div style="display: inline-block">
-  <img align="center" alt="Java" height="40" width="40" style="margin-right: 10px;" src="https://skillicons.dev/icons?i=java">
-  <img align="center" alt="Spring Boot" height="40" width="40" style="margin-right: 10px;" src="https://skillicons.dev/icons?i=spring">
-  <img align="center" alt="Python" height="40" width="40" style="margin-right: 10px;" src="https://skillicons.dev/icons?i=python">
-  <img align="center" alt="JavaScript" height="40" width="40" style="margin-right: 10px;" src="https://skillicons.dev/icons?i=js">
-  <img align="center" alt="HTML" height="40" width="40" style="margin-right: 10px;" src="https://skillicons.dev/icons?i=html">
-  <img align="center" alt="CSS" height="40" width="40" src="https://skillicons.dev/icons?i=css">
+  <img align="center" alt="Java" height="60" width="60" src="https://skillicons.dev/icons?i=java">
+  &nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Spring Boot" height="60" width="60" src="https://skillicons.dev/icons?i=spring">
+  &nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Python" height="60" width="60" src="https://skillicons.dev/icons?i=python">
+  &nbsp;&nbsp;&nbsp;
+  <img align="center" alt="JavaScript" height="60" width="60" src="https://skillicons.dev/icons?i=js">
+  &nbsp;&nbsp;&nbsp;
+  <img align="center" alt="HTML" height="60" width="60" src="https://skillicons.dev/icons?i=html">
+  &nbsp;&nbsp;&nbsp;
+  <img align="center" alt="CSS" height="60" width="60" src="https://skillicons.dev/icons?i=css">
 </div>
 
-<br>
+<br><br>
 
 ### Contatos abaixo!
 
 <div> 
   <a href="mailto:jv.leal.dev@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40" width="40">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="60" width="60">
   </a>
-  &nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/joaovlc/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="40">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="60" width="60">
   </a>
 </div>
