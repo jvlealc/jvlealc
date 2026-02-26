@@ -13,13 +13,17 @@
   &nbsp;&nbsp;&nbsp;
   <img align="center" alt="Spring Boot" height="60" width="60" src="https://skillicons.dev/icons?i=spring">
   &nbsp;&nbsp;&nbsp;
-  <img align="center" alt="Python" height="60" width="60" src="https://skillicons.dev/icons?i=python">
-  &nbsp;&nbsp;&nbsp;
-  <img align="center" alt="JavaScript" height="60" width="60" src="https://skillicons.dev/icons?i=js">
+  <img align="center" alt="TypeScript" height="60" width="60" src="https://skillicons.dev/icons?i=ts">
   &nbsp;&nbsp;&nbsp;
   <img align="center" alt="HTML" height="60" width="60" src="https://skillicons.dev/icons?i=html">
   &nbsp;&nbsp;&nbsp;
   <img align="center" alt="CSS" height="60" width="60" src="https://skillicons.dev/icons?i=css">
+  &nbsp;&nbsp;&nbsp;
+  <img align="center" alt="PostgreSQL" height="60" width="60" src="https://skillicons.dev/icons?i=postgres">
+  &nbsp;&nbsp;&nbsp;
+  <img align="center" alt="MySQL" height="60" width="60" src="https://skillicons.dev/icons?i=mysql">
+  &nbsp;&nbsp;&nbsp;
+  <img align="center" alt="MongoDB" height="60" width="60" src="https://skillicons.dev/icons?i=mongo">
 </div>
 
 <br><br>
