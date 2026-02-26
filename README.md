@@ -24,12 +24,13 @@
   <img align="center" alt="MySQL" height="60" width="60" src="https://skillicons.dev/icons?i=mysql">
   &nbsp;&nbsp;&nbsp;
   <img align="center" alt="MongoDB" height="60" width="60" src="https://skillicons.dev/icons?i=mongo">
+  &nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Docker" height="60" width="60" src="https://skillicons.dev/icons?i=docker">
 </div>
 
 <br>
 
 ### Contatos abaixo!
-
 <div> 
   <a href="mailto:jv.leal.dev@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="60" width="60">
